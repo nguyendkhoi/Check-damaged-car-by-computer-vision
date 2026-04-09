@@ -30,13 +30,16 @@ Confidence Probability
 Prerequisites
 Ensure you have the necessary libraries installed:
 
-```Bash
+```bash
 pip install -Uqq fastai ddgs fastcore
+```
 
 Running the Notebook
 Clone this repository:
-```Bash
+```bash
 git clone https://github.com/your-username/damaged-car-detection.git
+```
+
 Open the .ipynb file in Google Colab or a local Jupyter environment.
 
 Run the cells sequentially.
