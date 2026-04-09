@@ -37,7 +37,7 @@ pip install -Uqq fastai ddgs fastcore
 Running the Notebook
 Clone this repository:
 ```bash
-git clone https://github.com/your-username/damaged-car-detection.git
+git clone https://github.com/nguyendkhoi/Check-damaged-car-by-computer-vision.git
 ```
 
 Open the .ipynb file in Google Colab or a local Jupyter environment.
