@@ -18,10 +18,7 @@ The script automatically searches for and downloads images of "damaged cars" and
 2. **Training**
 We use Transfer Learning with a pre-trained ResNet architecture. This allows the model to achieve high accuracy and speed even with a relatively small number of custom images.
 
-3. **Data Cleaning**
-The notebook includes an interactive ImageClassifierCleaner, allowing you to manually prune low-quality or irrelevant images from the training set to improve model robustness.
-
-4. **Inference**
+3. **Inference**
 You can test the model by uploading a custom image (car.jpg). The model outputs:
 Category: (e.g., "damaged car" or "not damaged")
 Confidence Probability
